@@ -1,3 +1,3 @@
 # Java-Otica
 
-Projeto de um teste de logica. Utilizando JAVA e Swing.
+Projeto de um teste de logica. Utilizando JAVA.
